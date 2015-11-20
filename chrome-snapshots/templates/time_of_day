@@ -1,0 +1,5 @@
+{% for line in values %}
+{% for number in range(1 -line.visit_count )%}
+Local time: {{ line.last_visit_time.local }}
+{% endfor %}
+{% endfor %}

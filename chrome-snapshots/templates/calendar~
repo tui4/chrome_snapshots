@@ -1,0 +1,6 @@
+{% for line in values %}
+{{ line.title }}
+{{ line.url}}
+Visits: {{ line.visit_count}}
+Local time: {{ line.last_visit_time.local }}
+{% endfor %}
