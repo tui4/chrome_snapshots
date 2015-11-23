@@ -1,5 +1,5 @@
 # Chrome Snapshots
-The beginnings of a program to visualise chrome/chromium usage patterns.
+The beginnings of a Python program to visualise chrome/chromium usage patterns.
 
 Developed on a Debian system in January 2014.
 
